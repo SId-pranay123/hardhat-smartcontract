@@ -17,7 +17,7 @@
 
 ```
 git clone https://github.com/SId-pranay123/hardhat-smartcontract
-cd hardhat-smartcontract-lottery-fcc
+cd hardhat-smartcontract
 yarn
 ```
 
